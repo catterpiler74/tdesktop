@@ -24,6 +24,9 @@ The latest version is available for
 
 ## Old system versions
 
+Version **4.10.2** WITH BLUE TRAY ICON (choose you os) and disable autoupdate before login!!!
+* (https://github.com/telegramdesktop/tdesktop/releases/tag/v4.10.2)
+
 Version **4.9.9** was the last that supports older systems
 
 * [macOS 10.12](https://updates.tdesktop.com/tmac/tsetup.4.9.9.dmg)
